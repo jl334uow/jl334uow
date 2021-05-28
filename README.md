@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in Running, photography, food and programming!
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on photography
+- 🌱 I’m currently learning reactjs
 - 📫 How to reach me lljustinlu@gmail.com
 
 <!---
