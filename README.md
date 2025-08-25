@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in Running, photography, food and programming!
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently developing websites with nodejs, html, css and deploying on Vercel
 - 📫 How to reach me lljustinlu@gmail.com
 
 <!---
